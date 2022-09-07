@@ -1,11 +1,11 @@
-#color-blue{
-    color: blueviolet;
+*{
+    padding: 0%;
+    margin: 0%;
 }
 
-h1{
-    color: gray !important; 
+.contact-from{
+    font-size: 20px;
+    background-color: #000;
+    width: 50%;
 }
 
-.color-red{
-    color: blue;
-}
