@@ -1,31 +1,11 @@
-*{
+#color-blue{
     color: blueviolet;
 }
 
-.titulo-h2{
+h1{
+    color: gray !important; 
+}
+
+.color-red{
     color: blue;
-}
-
-p{
-    color: black;
-}
-
-#element{
-    color: red;
-}
-
-[rancio="Sii"]{
-    color: rgb(36, 1, 160);
-}
-
-h2 p{
-    color: rgb(15, 165, 165);
-}
-
-b span{
-    color: cornflowerblue;
-}
-
-b:hover{
-    color: rgb(0, 255, 34);
 }
