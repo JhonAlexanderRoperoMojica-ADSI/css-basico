@@ -1,6 +1,6 @@
 *{
-    padding: 0%;
-    margin: 0%;
+    font-family: cursive, Arial, Helvetica, sans-serif;
+    font-weight: 900;
 }
 
 .contact-from{
@@ -9,10 +9,6 @@
 
 .contact-from__h2{
     font-size: 2em;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    line-height: 1.9;
-    font-weight: 900;
-    font-stretch: normal;
-    font-variant: small-caps;
+    color: red;
 }
 
