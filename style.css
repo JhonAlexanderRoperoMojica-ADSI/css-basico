@@ -1,13 +1,17 @@
 * {
     font-family: 'Combo', cursive;
+    font-size: 30px;
     font-weight: 900;
 }
 
-.contact-from {
-    font-size: 20px;
+h2{
+    display: inline;
+    height: 400px;
+    width: 190px;
+    background-color: red;
 }
 
-.contact-from__h2 {
-    font-size: 2em;
-    color: red;
+p{
+    height: 400px;
+    width: 190px;
 }
