@@ -4,16 +4,25 @@
     font-weight: 900;
 }
 
-h2{
-    background-color: blueviolet;
+div{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
     display: inline-block;
-    padding: 100px;
-    box-sizing: border-box;
-    text-align: center;
-    margin: 20px 10px;
-    border-radius: 2em;
-    box-shadow: 30px 20px 10px 10px black;
-    text-shadow: 2px 2px 10px #fff, 2px 2px 10px #fff, 2px 2px 10px #fff;
-    transform: rotate(160deg);
 }
 
+.caja1{
+    border: 5PX solid red;
+}
+.caja2{
+    outline: 5PX solid red;
+}
+.caja3{
+    border: 5PX solid red;
+}
+.caja4{
+    outline: 5PX solid red;
+}
+.caja5{
+    outline: 5PX solid red;
+}
