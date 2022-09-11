@@ -4,20 +4,49 @@
     font-weight: 900;
 }
 
-.contenedor{
-    width: 300px;
-    height: 300px;
-    background: yellowgreen;
-    margin: 40px;
-    position: relative;
+div div{
+    height: 75px;
+    width: 75px;
+    background: yellow;
 }
 
-.hijo{
-    background-color: red;
-    width: 120px;
-    height: 120px;
+div{
+    display: block;
+    background-color: yellow;
+    position: absolute;
+}
+
+.contenedor{
+    background: green;
     position: relative;
-    top: -30px;
-    left: -30px;
-    z-index: -1;
+    border: 4PX solid red;
+    height: 450px;
+    width: 450px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.caja1{
+    left: 0%;
+}
+
+.caja2{
+    right: 0;
+}
+
+.caja3{
+    right: 0%;
+    bottom: 0%;
+}
+
+.caja4{
+    bottom: 0;
+}
+
+.caja5{
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    margin: auto;
 }
